@@ -1,4 +1,4 @@
-# artifitial-intelligence
+# artifitial-intelligence-models
 Different ML and DL models that I trained for CS courses at Fulbright University Vietnam
 
 Machine Learning models:
