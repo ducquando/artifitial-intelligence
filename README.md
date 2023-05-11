@@ -4,7 +4,7 @@ Different ML and DL models that I trained for CS courses at Fulbright University
 Machine Learning models:
 - [Naive Bayes](Naive%20Bayes%20Classification.ipynb): predict travel insurance buyers
 - [K-means](K-means%20Clustering.ipynb): segment credit card customers
-- [Decision Tree & Random Forest](Descision%20Tree%20&%20Random%20Forest.ipynb): predict employee recruitment rate
+- [Decision Tree & Random Forest](Descision%20Tree%20%26%20Random%20Forest.ipynb): predict employee recruitment rate
 - [Support Vector Machine](Support%20Vector%20Machine.ipynb): predict breast cancer
 
 Deep Learning models:
